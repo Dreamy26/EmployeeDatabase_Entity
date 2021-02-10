@@ -5,7 +5,7 @@ namespace MockAssessment6.Migrations
     public partial class InitialCreate : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
-        {
+        {   // up method added to create a table for employees
             migrationBuilder.CreateTable(
                 name: "Employees",
                 columns: table => new

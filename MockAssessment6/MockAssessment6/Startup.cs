@@ -29,8 +29,8 @@ namespace MockAssessment6
             // adding our Db context in the startup.CS  -- CTRL. to get intelsense --- use first one for all red sqigg
             services.AddDbContext<EmployeeDbContext>(options =>
             {
-                var connectionString = Configuration.GetConnectionString("DefaultConnection");
-                options.UseSqlServer(connectionString);
+                var ConnectionString = Configuration.GetConnectionString("DefaultConnection");
+                options.UseSqlServer(ConnectionString);
             });
             services.AddControllersWithViews();
         }
