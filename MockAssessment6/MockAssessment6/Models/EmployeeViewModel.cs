@@ -3,8 +3,6 @@ namespace MockAssessment6.Models
 {
     public class EmployeeViewModel
     {
-        public EmployeeViewModel()
-        {
-        }
+        public EmployeeCurrent Employees { get; set; }
     }
 }
