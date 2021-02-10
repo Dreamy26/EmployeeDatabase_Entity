@@ -1,0 +1,7 @@
+/Users/dreamy/Projects/grandCircus_New/2_february/MockAssessment6Entity/MockAssessment6/MockAssessment6/obj/Debug/netcoreapp3.1/MockAssessment6.csprojAssemblyReference.cache
+/Users/dreamy/Projects/grandCircus_New/2_february/MockAssessment6Entity/MockAssessment6/MockAssessment6/obj/Debug/netcoreapp3.1/MockAssessment6.AssemblyInfoInputs.cache
+/Users/dreamy/Projects/grandCircus_New/2_february/MockAssessment6Entity/MockAssessment6/MockAssessment6/obj/Debug/netcoreapp3.1/MockAssessment6.AssemblyInfo.cs
+/Users/dreamy/Projects/grandCircus_New/2_february/MockAssessment6Entity/MockAssessment6/MockAssessment6/obj/Debug/netcoreapp3.1/MockAssessment6.csproj.CoreCompileInputs.cache
+/Users/dreamy/Projects/grandCircus_New/2_february/MockAssessment6Entity/MockAssessment6/MockAssessment6/obj/Debug/netcoreapp3.1/MockAssessment6.MvcApplicationPartsAssemblyInfo.cache
+/Users/dreamy/Projects/grandCircus_New/2_february/MockAssessment6Entity/MockAssessment6/MockAssessment6/obj/Debug/netcoreapp3.1/MockAssessment6.RazorAssemblyInfo.cache
+/Users/dreamy/Projects/grandCircus_New/2_february/MockAssessment6Entity/MockAssessment6/MockAssessment6/obj/Debug/netcoreapp3.1/MockAssessment6.RazorAssemblyInfo.cs
