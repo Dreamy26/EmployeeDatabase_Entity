@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dreamy/Projects/MockAssessment6/MockAssessment6/MockAssessment6.csproj": {}
+    "/Users/dreamy/Projects/grandCircus_New/2_february/MockAssessment6Entity/MockAssessment6/MockAssessment6/MockAssessment6.csproj": {}
   },
   "projects": {
-    "/Users/dreamy/Projects/MockAssessment6/MockAssessment6/MockAssessment6.csproj": {
+    "/Users/dreamy/Projects/grandCircus_New/2_february/MockAssessment6Entity/MockAssessment6/MockAssessment6/MockAssessment6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dreamy/Projects/MockAssessment6/MockAssessment6/MockAssessment6.csproj",
+        "projectUniqueName": "/Users/dreamy/Projects/grandCircus_New/2_february/MockAssessment6Entity/MockAssessment6/MockAssessment6/MockAssessment6.csproj",
         "projectName": "MockAssessment6",
-        "projectPath": "/Users/dreamy/Projects/MockAssessment6/MockAssessment6/MockAssessment6.csproj",
+        "projectPath": "/Users/dreamy/Projects/grandCircus_New/2_february/MockAssessment6Entity/MockAssessment6/MockAssessment6/MockAssessment6.csproj",
         "packagesPath": "/Users/dreamy/.nuget/packages/",
-        "outputPath": "/Users/dreamy/Projects/MockAssessment6/MockAssessment6/obj/",
+        "outputPath": "/Users/dreamy/Projects/grandCircus_New/2_february/MockAssessment6Entity/MockAssessment6/MockAssessment6/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -40,6 +40,26 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
